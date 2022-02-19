@@ -24,8 +24,8 @@ We have now fetched a solution to encourage the consumers to purchase quality pr
 ### ✍️ &nbsp; **Business Aspect**
 
 Our idea would earn some percentage of revenue from both sellers as well as consumers for this service making this a sustainable and future proof. We furthur plan to collaborate with big firms to further scale this business.
-
 <br>
+
 ### **Roadmap**
 
 - Add more functionality
