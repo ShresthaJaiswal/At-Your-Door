@@ -158,7 +158,7 @@ nav .checkbtn span {
 
 #showcase .bg-image {
   position: absolute;
-  background:url("./img/showcase.jpg");
+  background:#333 url("./img/showcase.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
