@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@600&display=swap');
 
 * {
   margin: 0;
@@ -165,14 +166,21 @@ nav .checkbtn span {
   width: 100%;
   height: 450px;
   z-index: -1;
-  opacity: 0.4;
+  opacity: 0.1;
 }
 
 #showcase h1 {
   padding-top: 100px;
   padding-bottom: 0;
+  font-size: 80px;
+  /* changing font of the main heading */
+  font-family: 'Oswald', sans-serif;
 }
 
+#showcase p{
+  /* changing font of the paragraph */
+  font-size: 20px;
+}
 #showcase .content-wrap,
 #section-a .content-wrap {
   padding: 0 1.5em;
