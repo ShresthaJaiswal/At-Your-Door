@@ -32,6 +32,9 @@ nav .logo {
   margin: auto 0;
   color: #333;
 }
+nav.logo:hover{
+  list-style: none;
+}
 nav ul {
   display: flex;
   justify-content: space-between;
