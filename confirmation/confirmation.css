@@ -1,3 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+#main{
+  height: 100vh;
+}
+
 
 #tick {
     text-align : center ;
@@ -18,27 +35,18 @@ a {
     color : white ; 
 }
 .btn {
-    display: inline-block;
-    background: #333;
-    color: #fff;
-    text-decoration: none;
-    padding: 1em 2em;
-    border: 1px solid #666;
-    margin: 0.5em 0;
-    text-align: center;
-    position: relative;
-    margin-left: 550px ;
-    margin-bottom: 80px ;
-  }
+  display: table;
+  background: #333;
+  color: #fff;
+  text-decoration: none;
+  padding: 1em 2em;
+  border: 1px solid #666;
+  margin: 0 auto;
+  position: absolute;
+  left: 45%;
+  top:60%;
+}
+
   
-  .btn:hover {
-    background: red ;
-    color: green;
-  }
-  .btn.a {
-      text-align : center ;
-  }
-  
- 
  
   
