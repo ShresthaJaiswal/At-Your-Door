@@ -35,4 +35,4 @@ Our idea would earn some percentage of revenue from both sellers as well as cons
 
 - Add an in-radius navigation system to track the availability of vendors within the area.
 
-- UI enhancements
+- UI enhancements.
