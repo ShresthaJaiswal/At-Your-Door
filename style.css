@@ -19,7 +19,7 @@
 /* showcase */
 body {
   margin: 0;
-  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Dancing Script', cursive; */
   background: #333333;
   color: #91bdaa;
   font-size: 1.1em;
@@ -68,7 +68,7 @@ nav {
   padding: 10px 20px;
   background: #91bdaa;
   position: relative;
-  color: black;
+  color: #333;
 }
 nav .logo {
   font-size: 25px;
@@ -89,7 +89,7 @@ nav ul li a {
   padding: 5px 8px;
   border-radius: 5px;
   text-transform: capitalize;
-  color: black;
+  color: #333;
 }
 /* nav ul li:hover a{
   background: #c4202f;
@@ -183,7 +183,9 @@ nav .checkbtn span {
 
 #showcase p{
   /* changing font of the paragraph */
-  font-size: 20px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 38px;
+  
 }
 #showcase .content-wrap,
 #section-a .content-wrap {
@@ -198,6 +200,7 @@ nav .checkbtn span {
   background: white;
   color: #657e68;
   padding-bottom: 2em;
+  font-family: 'Dancing Script', cursive;
 }
 
 /* Section C */
@@ -206,6 +209,11 @@ nav .checkbtn span {
   background: #fff;
   color: #333;
   padding: 2em;
+}
+
+#section-c p.stylish{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
 }
 
 /* Section D / Boxes */
@@ -536,3 +544,8 @@ nav_1 {
   .hero h2{
   line-height: 1.5 !important;
   }
+/* h2.content-title{
+  font-family: 'Dancing Script', cursive;
+  font-size: 32px;
+  font-weight: 99999999;
+  } */
