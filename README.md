@@ -1,5 +1,8 @@
 
-# **Project Name**
+# **At Your Door**
+
+Your Smallest Requirements, Our Happiest Accomplishments
+<br>
 
 ## **Introduction**
 
@@ -8,7 +11,10 @@ The impact of COVID-19 has been extraordinary in both the disruption and evoluti
 
 ### 🔭 &nbsp; **About this Project**
 
-Taking into consideration, the financial fragility of small businesses, we are on a journey to facilitate the commercialization of the same by providing a credible platform! We bring to the consumers, the feasibility of online shopping, assurance of covid protocols and exclusive daily essentials at their doorstep in a jiffy.
+Taking into consideration, the financial fragility of small businesses, we are on a journey to facilitate the commercialization of the same by providing a credible platform! We bring to the consumers, the feasibility of online shopping, assurance of covid protocols and exclusive daily essentials at their doorstep in a jiffy. 
+
+Resolving the everlasting question of what's different?
+We have now fetched a solution to encourage the consumers to purchase quality products in everyday life by enabling their preferred way of green-grocery shopping, i.e, via the local vegetable vendors at an affordable range. They can now track the available vegetable vendors through an **in-radius navigation system** and let them come to their place **at our own convenience**. Enhancing the quality, feasibility and cost-effectiveness, we can **get rid of the packaged, less-authentic greengroceries** through marts/other online modes.
 <br>
 
 ### 🛠 &nbsp; **Tech Stack**
@@ -19,9 +25,11 @@ Taking into consideration, the financial fragility of small businesses, we are o
 <br>
 
 ### ✍️ &nbsp; **Business Aspect**
+
+Our idea would earn some percentage of revenue from both sellers as well as consumers for this service making this a sustainable and future proof. We furthur plan to collaborate with big firms to further scale this business.
 <br>
 
-### **Roadmap**
+### 📫 &nbsp; **Roadmap**
 
 - Add more functionality
 
