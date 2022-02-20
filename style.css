@@ -68,7 +68,7 @@ nav {
   padding: 10px 20px;
   background: #91bdaa;
   position: relative;
-  color: #efede0;
+  color: black;
 }
 nav .logo {
   font-size: 25px;
@@ -89,7 +89,7 @@ nav ul li a {
   padding: 5px 8px;
   border-radius: 5px;
   text-transform: capitalize;
-  color: #F5EEDC;
+  color: black;
 }
 /* nav ul li:hover a{
   background: #c4202f;
